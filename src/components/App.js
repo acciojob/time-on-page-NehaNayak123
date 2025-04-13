@@ -13,10 +13,7 @@ function App(){
   },[])
   return (
     <div>
-        {/* Do not remove the main div */}
-      //<p>`You have been on this page for {count} seconds.`</p>
-      //<p>`You\'ve been on this page for 0 seconds.`</p>
-      <p>You\'ve been on this page for {count} seconds.</p>
+      <p>You've been on this page for {count} seconds.</p>
     </div>
   )
 }
